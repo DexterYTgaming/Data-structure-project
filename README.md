@@ -1,9 +1,9 @@
 # Data-structure-project
-Ma chuda jatim
 
 
+This is a project based on the game 2048
 
-
-
-
-#nhi degi
+Made by:
+Rushil Gupta
+Jatin Agarwal
+Bhavya Joshi
